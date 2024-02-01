@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "782521126888",
+    "firebase_url": "https://barcodescanner-73fe5-default-rtdb.firebaseio.com",
+    "project_id": "barcodescanner-73fe5",
+    "storage_bucket": "barcodescanner-73fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782521126888:android:c27d09c530ccbe6d459e5d",
+        "android_client_info": {
+          "package_name": "com.example.barcodescanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-ptk1mfeK9AHOMsccr0pmbhlR2vcgZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782521126888:android:666ba69f2b37bd0a459e5d",
+        "android_client_info": {
+          "package_name": "com.javinsensestudios.stocksystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-ptk1mfeK9AHOMsccr0pmbhlR2vcgZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
