@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"asy-stocksys","appId":"1:703677654277:android:0f3996a1614f6d8929c36c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"asy-stocksys","configurations":{"android":"1:703677654277:android:0f3996a1614f6d8929c36c","ios":"1:703677654277:ios:d9a27ae807afa80029c36c"}}}}}}
