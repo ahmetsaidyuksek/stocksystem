@@ -1,16 +1,10 @@
-# stocksystem
+StockSytem (Stok Takip Sistemi) by Ahmet Said Yüksek
 
-StockSystem by Ahmet Said Yuksek
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IMG-20240809-WA0007](https://github.com/user-attachments/assets/7eeb6e42-224a-46d7-8807-801b7cd6df7f)
+![IMG-20240809-WA0012](https://github.com/user-attachments/assets/7f796690-3cc1-4dac-8930-c23add588e31)
+![IMG-20240809-WA0011](https://github.com/user-attachments/assets/3b20aa1b-ce10-4eca-a2af-bdcaffbe2034)
+![IMG-20240809-WA0008](https://github.com/user-attachments/assets/d3beaf44-6cfa-4d5a-aba1-c8b402b45bae)
+![IMG-20240809-WA0013](https://github.com/user-attachments/assets/95b8119c-9ece-4392-a8cd-70f505500f24)
+![IMG-20240809-WA0010](https://github.com/user-attachments/assets/08b13b1b-5e1e-4baa-a41f-ee778f7e3aef)
+![IMG-20240809-WA0009](https://github.com/user-attachments/assets/5cf190e5-2b4b-4328-bb3c-b30297d5e780)
